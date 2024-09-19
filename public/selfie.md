@@ -14,6 +14,6 @@ I think I will be a full-stack web developer who like to recreate and fuck aroun
 Btw, I perfer salmon over tuna.
 
 You can also find me on,
-- Github:   [@humbornjo](https://github.com/kibetamos)
+- Github:   [@kibetamos](https://github.com/kibetamos)
 
 
