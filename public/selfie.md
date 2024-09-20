@@ -7,7 +7,7 @@ favicon: https://humbornjo.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.
 
 Hi there,
 
-On the internet I’m mostly known as KIfee. My pronouns are he/him.
+On the internet I’m mostly known as Kifee. My pronouns are he/him.
 
 I think I will be a full-stack web developer who like to recreate and fuck around. Somewhat just like [tsoding](https://www.youtube.com/@TsodingDaily).
 
